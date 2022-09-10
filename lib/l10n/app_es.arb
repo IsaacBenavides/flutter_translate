@@ -1,0 +1,5 @@
+{
+    "appTitle": "Heroes de la ciencia de la computación",
+    "centerText": "Este es el titulo del centro",
+    "toProof": "Este es un texto de prueba para saber si cuando llamo el comando 'flutter l10n' genera todo los valores en el map"
+}
